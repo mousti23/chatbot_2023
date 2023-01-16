@@ -1,0 +1,7 @@
+Chattbotten needs to know:
+
+1. Which streamers channels to join
+2. Which streamer is associated with which campaign
+3. All campaign text messages.
+4. Campaign data (URL and such)
+5. When to write the message (automatic & command)
